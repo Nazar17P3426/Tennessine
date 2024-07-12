@@ -1,2 +1,2 @@
-# Tennessine.exe
-New malware
+# Tennessine
+C++ GDI trojan by yedb0y33k
